@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.0.3 (2026-05-04)
+
+Full Changelog: [v0.0.2...v0.0.3](https://github.com/PhoenixVazquez-glitch/SeshtaHVCode-/compare/v0.0.2...v0.0.3)
+
+### Chores
+
+* update SDK settings ([423c375](https://github.com/PhoenixVazquez-glitch/SeshtaHVCode-/commit/423c375780f6596c3c4ec3578a9b7322214490e2))
+
 ## 0.0.2 (2026-05-04)
 
 Full Changelog: [v0.0.1...v0.0.2](https://github.com/PhoenixVazquez-glitch/SeshtaHVCode-/compare/v0.0.1...v0.0.2)
