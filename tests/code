@@ -1,0 +1,2 @@
+print(seshtahvcode_py_cli.__version__)
+import seshtahvcode_py_cli
