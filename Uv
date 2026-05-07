@@ -1,0 +1,7 @@
+$ ./scripts/bootstrap
+$ ./scripts/format
+$ ./scripts/lint
+$ ./scripts/test
+$ uv build
+# or
+$ python -m build
