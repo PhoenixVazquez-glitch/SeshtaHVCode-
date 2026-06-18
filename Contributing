@@ -1,0 +1,6 @@
+$ pip install ./path-to-wheel-file.whl
+$ uv build
+# or
+$ python -m build
+$ ./scripts/lint
+$ ./scripts/format
